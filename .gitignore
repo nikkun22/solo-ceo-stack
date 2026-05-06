@@ -145,3 +145,6 @@ vite.config.ts.timestamp-*
 # Build artifacts
 solo-ceo-stack-basic-pack-*.zip
 dist/
+
+# Internal project instructions (not for distribution)
+CLAUDE.md
